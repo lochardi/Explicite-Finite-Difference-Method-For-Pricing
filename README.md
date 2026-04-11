@@ -1,4 +1,4 @@
-# Explicit Finite Differences Method For Pricing
+# ExplicitFiniteDifferencesMethodForPricing
 Paired project to implement explicit finite-difference methods for option pricing
 
 # Configuration
